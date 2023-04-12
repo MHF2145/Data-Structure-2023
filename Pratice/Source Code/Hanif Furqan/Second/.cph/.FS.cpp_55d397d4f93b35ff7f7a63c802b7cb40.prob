@@ -1,0 +1,1 @@
+{"name":"Local: FS","url":"d:\\Coding_maybe\\C_C++\\Praktikum\\Second\\FS.cpp","tests":[{"id":1680314238766,"input":"2\n5 2 3 9 7 25 6 8 20 22 21 23\n2\n2\n20 23\n3\n8 21 23","output":"20 3\n9 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding_maybe\\C_C++\\Praktikum\\Second\\FS.cpp","group":"local","local":true}

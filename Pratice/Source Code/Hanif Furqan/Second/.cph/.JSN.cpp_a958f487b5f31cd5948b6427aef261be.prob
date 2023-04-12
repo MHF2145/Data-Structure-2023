@@ -1,0 +1,1 @@
+{"name":"Local: JSN","url":"d:\\Coding_maybe\\C_C++\\Praktikum\\Second\\JSN.cpp","tests":[{"id":1680693178906,"input":"5\n3 4 5 1 2","output":"5\n"},{"id":1680693196911,"input":"3\n1 2 3","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding_maybe\\C_C++\\Praktikum\\Second\\JSN.cpp","group":"local","local":true}

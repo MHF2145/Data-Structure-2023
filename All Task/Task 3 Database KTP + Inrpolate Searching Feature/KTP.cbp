@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="KTP" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/KTP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/KTP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Select.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cari_ktp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ceknik.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dpt_ktp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fungsi.h" />
+		<Unit filename="inp_ktp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lihat_ktp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lihatkan_ktp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="list_ktp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="msk_ktp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="smpn_ktp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

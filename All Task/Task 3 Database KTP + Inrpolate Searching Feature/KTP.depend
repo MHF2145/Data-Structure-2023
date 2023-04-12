@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1677062692 source:d:\coding_maybe\c_c++\ktp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fungsi.h"
+
+1677099439 d:\coding_maybe\c_c++\ktp\fungsi.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1677099479 source:d:\coding_maybe\c_c++\ktp\select.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fungsi.h"
+
+1677058563 source:d:\coding_maybe\c_c++\ktp\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fungsi.h"
+
+1677074147 source:d:\coding_maybe\c_c++\ktp\inp_ktp.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fungsi.h"
+
+1677074284 source:d:\coding_maybe\c_c++\ktp\list_ktp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fungsi.h"
+
+1677766383 source:d:\coding_maybe\c_c++\task 2 databse ktp sederhana\list_ktp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fungsi.h"
+
+1677768622 d:\coding_maybe\c_c++\task 2 databse ktp sederhana\fungsi.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1677099633 source:d:\coding_maybe\c_c++\task 2 databse ktp sederhana\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fungsi.h"
+
+1677099627 source:d:\coding_maybe\c_c++\task 2 databse ktp sederhana\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fungsi.h"
+
+1677766438 source:d:\coding_maybe\c_c++\task 2 databse ktp sederhana\select.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fungsi.h"
+
+1677119555 source:d:\coding_maybe\c_c++\task 2 databse ktp sederhana\inp_ktp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fungsi.h"
+
+1677741488 source:d:\coding_maybe\c_c++\task 2 databse ktp sederhana\lihat_ktp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fungsi.h"
+
+1677741794 source:d:\coding_maybe\c_c++\task 2 databse ktp sederhana\smpn_ktp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fungsi.h"
+
+1677767059 source:d:\coding_maybe\c_c++\task 2 databse ktp sederhana\msk_ktp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fungsi.h"
+
+1677768446 source:d:\coding_maybe\c_c++\task 2 databse ktp sederhana\ceknik.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fungsi.h"
+
