@@ -188,56 +188,44 @@ void printRootAndHeight(struct Node *root)
         return;
     }
 
-    printf("Root node: %d\n", root->key);
+    printf("Root: %d\n", root->key);
     printf("Height: %d\n", root->height);
+}
+
+// Fungsi untuk mengurutkan array secara ascending
+void bubbleSort(int arr[], int n)
+{
+    for (int i = 0; i < n - 1; i++)
+    {
+        for (int j = 0; j < n - i - 1; j++)
+        {
+            if (arr[j] > arr[j + 1])
+            {
+                int temp = arr[j];
+                arr[j] = arr[j + 1];
+                arr[j + 1] = temp;
+            }
+        }
+    }
 }
 
 int main()
 {
     struct Node *root = NULL;
     int choice, key;
+    int arr[] = {3, 5, 8, 20, 18, 13, 22};
+    int n = sizeof(arr) / sizeof(arr[0]);
 
-    do
+    // Mengurutkan array
+    bubbleSort(arr, n);
+
+    for (int i = 0; i < n; i++)
     {
-        printf("\nAVL Tree Menu:\n");
-        printf("1. Insert\n");
-        printf("2. Delete\n");
-        printf("3. Exit\n");
-        printf("Enter your choice: ");
-        scanf("%d", &choice);
+        root = insert(root, arr[i]);
+    }
 
-        switch (choice)
-        {
-        case 1:
-            while (1)
-            {
-                printf("Enter the key to insert (Enter -1 to exit): ");
-                scanf("%d", &key);
-                if (key == -1)
-                    break;
-                root = insert(root, key);
-                printf("Preorder traversal after insertion: ");
-                preOrder(root);
-                printf("\n");
-                printRootAndHeight(root);
-            }
-            break;
-        case 2:
-            printf("Enter the key to delete: ");
-            scanf("%d", &key);
-            root = deleteNode(root, key);
-            printf("Preorder traversal after deletion: ");
-            preOrder(root);
-            printf("\n");
-            printRootAndHeight(root);
-            break;
-        case 3:
-            printf("Exiting...\n");
-            break;
-        default:
-            printf("Invalid choice. Please try again.\n");
-        }
-    } while (choice != 3);
+    printf("Root: %d\n", root->key);
+    printf("Height: %d\n", root->height);
 
     return 0;
 }

@@ -188,14 +188,33 @@ void printRootAndHeight(struct Node *root)
         return;
     }
 
-    printf("Root node: %d\n", root->key);
+    printf("Root: %d\n", root->key);
     printf("Height: %d\n", root->height);
 }
+
+// Fungsi untuk mengurutkan array secara ascending
+void bubbleSort(int arr[], int n)
+{
+    for (int i = 0; i < n - 1; i++)
+    {
+        for (int j = 0; j < n - i - 1; j++)
+        {
+            if (arr[j] > arr[j + 1])
+            {
+                int temp = arr[j];
+                arr[j] = arr[j + 1];
+                arr[j + 1] = temp;
+            }
+        }
+    }
+}
+
+
 
 int main()
 {
     struct Node *root = NULL;
-    int choice, key;
+    int choice, key, o;
 
     do
     {
@@ -209,18 +228,25 @@ int main()
         switch (choice)
         {
         case 1:
-            while (1)
+            printf("Enter how many nodes you want the AVL tree to have: ");
+            scanf("%d", &o);
+
+            int arr[o];
+            for (int i = 0; i < o; i++)
             {
-                printf("Enter the key to insert (Enter -1 to exit): ");
-                scanf("%d", &key);
-                if (key == -1)
-                    break;
-                root = insert(root, key);
-                printf("Preorder traversal after insertion: ");
-                preOrder(root);
-                printf("\n");
-                printRootAndHeight(root);
+                printf("Enter element %d: ", i + 1);
+                scanf("%d", &arr[i]);
             }
+
+            for (int i = 0; i < o; i++)
+            {
+                root = insert(root, arr[i]);
+            }
+
+            printf("Preorder traversal after insertion: ");
+            preOrder(root);
+            printf("\n");
+            printRootAndHeight(root);
             break;
         case 2:
             printf("Enter the key to delete: ");
