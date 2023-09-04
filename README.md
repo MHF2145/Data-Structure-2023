@@ -1,9 +1,6 @@
 # Data Structure 2023
  All files and source code related to data structure from 2023rd class
 
-![image](https://user-images.githubusercontent.com/117990315/210136544-a3bd4314-f8d5-4000-b2d8-356f94bbb6c7.png)
-<i>Check out the documentary by navigating to the Wiki page.</i>
-
 ## Contributors
 ### IUP Class
 - Robin: [@Rubinskiy][(https://github.com/Rubinskiy)](https://github.com/Rubinskiy/IF184202-Data-Structures)
