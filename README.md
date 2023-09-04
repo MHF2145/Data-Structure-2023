@@ -10,38 +10,33 @@
 - Hassan: -
 
 ### Class A
-- Jericho: [@jericho_cs6](https://www.instagram.com/jericho_cs6/)
-- Aan: [@AndikaRT421](https://github.com/AndikaRT421)
-- Juan: [@Djuanzz](https://github.com/Djuanzz)
+- Zharif: https://github.com/xcurvnubaim/Data-Structure
+- Gavi
 
 ### Class B
-- Fira: [@kachponz](https://github.com/kachponz)
-- Iftala: [@ifzahri](https://github.com/ifzahri)
-- Zharif: -
-- Fatih: [@fatih.rmdn](https://www.instagram.com/fatih.rmdn)
+- Akmal: [@fadhlakmal](https://github.com/fadhlakmal)
+- Nabil:https://github.com/reivertt/Data-Structures-B
+- Keanu: [@keanutaufan](https://github.com/keanutaufan)
+
 
 ### Class C 
-- Jesse: [@jesse.rjs](https://www.instagram.com/jesse.rjs)
-- Koresy: [@korekorokero](https://github.com/korekorokero)
+- Aan: [@AndikaRT421][(https://github.com/AndikaRT421)](https://github.com/AndikaRT421/strukdat_2023)
+- Abdi: [Abdi](https://github.com/yaudahbanh/StrukturData)
 
 ### Class D
 - Aqil: [@qiqi_farrukh](https://www.instagram.com/qiqi_farrukh)
 - Keyo: [@keyo01_](https://www.instagram.com/keyo01_) (ada akun cosplay, cari aja)
-- Ainun: [@ainunns](https://github.com/ainunns)
+
 
 ### Class E
-- Genta: -
+- Revy: https://github.com/Revprm/Data-Structures-Practicum - https://github.com/Revprm/Data-Structures-Practicum
 
 ### Class F
-- Gesang: [@gesangwidigdo](https://github.com/gesangwidigdo)
-- Ivan: [@ivnadinata](https://www.instagram.com/ivnadinata)
+- Ainun: [@ainunns]([https://github.com/ainunns](https://github.com/ainunns/Struktur-Data))
 
 ### Class G
-- Hanif: [@MHF2145](https://github.com/MHF2145)
-- Akmal: [@fadhlakmal](https://github.com/fadhlakmal)
-- Keanu: [@keanutaufan](https://github.com/keanutaufan)
-- Razan 22: [@razabd](https://github.com/razabd)
-- Razan 21: [@athraz](https://github.com/athraz)
+
+
 
 Contact the seniors listed above through their Github or social media if you have any questions. Please remember to introduce yourself first.
 ***
@@ -50,5 +45,5 @@ Documentary for other courses:<br>
 https://its.id/m/DM-TC
 
 Additional materials for this course:<br>
-https://github.com/AlproITS/DasarPemrograman/wik<br>
-https://dasprog2022.carrd.co/
+[https://github.com/AlproITS/DasarPemrograman/wik<br>](https://github.com/Algoritma-dan-Pemrograman-ITS/StrukturData)https://github.com/Algoritma-dan-Pemrograman-ITS/StrukturData
+
