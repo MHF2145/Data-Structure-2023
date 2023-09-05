@@ -17,7 +17,7 @@
 
 
 ### Class C 
-- Aan: [@AndikaRT421][(https://github.com/AndikaRT421)](https://github.com/AndikaRT421/strukdat_2023)
+- Aan: [@AndikaRT421](https://github.com/AndikaRT421/strukdat_2023)
 - Abdi: [@yaudahbanh](https://github.com/yaudahbanh/StrukturData)
 
 ### Class D
@@ -30,10 +30,10 @@
 - Jesse: [@BaomaDev](https://github.com/BaomaDev)
 
 ### Class F
-- Ainun: [@ainunns]([https://github.com/ainunns](https://github.com/ainunns/Struktur-Data))
+- Ainun: [@ainunns](https://github.com/ainunns/Struktur-Data)
 
 ### Class G
-- Ricardo: [@Ricardo08S]([[https://github.com/ainunns](https://github.com/ainunns/Struktur-Data)](https://github.com/Ricardo08S/Tugas_Strukdat_G))
+- Ricardo: [@Ricardo08S](https://github.com/Ricardo08S/Tugas_Strukdat_G)
 
 
 Contact the seniors listed above through their Github or social media if you have any questions. Please remember to introduce yourself first.
