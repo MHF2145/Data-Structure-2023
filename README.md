@@ -21,8 +21,8 @@
 - Abdi: [@yaudahbanh](https://github.com/yaudahbanh/StrukturData)
 
 ### Class D
-- Aqil: [@qiqi_farrukh](https://www.instagram.com/qiqi_farrukh)
-- Keyo: [@keyo01_](https://www.instagram.com/keyo01_) (ada akun cosplay, cari aja)
+- Iftala: [ifzahri](https://github.com/ifzahri)
+- Wildan:{}()
 
 
 ### Class E
