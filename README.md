@@ -7,12 +7,12 @@
 - Hassan: -
 
 ### Class A
-- Zharif: https://github.com/xcurvnubaim/Data-Structure
+- Zharif: [@xcurvnubaim](https://github.com/xcurvnubaim/Data-Structure)
 - Gavi
 
 ### Class B
 - Akmal: [@fadhlakmal](https://github.com/fadhlakmal)
-- Nabil:https://github.com/reivertt/Data-Structures-B
+- Nabil:[@reivertt](https://github.com/reivertt/Data-Structures-B)
 - Keanu: [@keanutaufan](https://github.com/keanutaufan)
 
 
@@ -26,13 +26,13 @@
 
 
 ### Class E
-- Revy: https://github.com/Revprm/Data-Structures-Practicum - https://github.com/Revprm/Data-Structures-Practicum
+- Revy: [Strukdat](https://github.com/Revprm/Data-Structures-Practicum) - [Praktikum](https://github.com/Revprm/Data-Structures-Practicum)
 
 ### Class F
 - Ainun: [@ainunns]([https://github.com/ainunns](https://github.com/ainunns/Struktur-Data))
 
 ### Class G
-
+- Ricardo: [@Ricardo08S]([[https://github.com/ainunns](https://github.com/ainunns/Struktur-Data)](https://github.com/Ricardo08S/Tugas_Strukdat_G))
 
 
 Contact the seniors listed above through their Github or social media if you have any questions. Please remember to introduce yourself first.
