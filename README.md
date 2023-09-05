@@ -3,7 +3,7 @@
 
 ## Contributors
 ### IUP Class
-- Robin: [@Rubinskiy][(https://github.com/Rubinskiy)](https://github.com/Rubinskiy/IF184202-Data-Structures)
+- Robin: [@Rubinskiy](https://github.com/Rubinskiy/IF184202-Data-Structures)
 - Hassan: -
 
 ### Class A
@@ -18,7 +18,7 @@
 
 ### Class C 
 - Aan: [@AndikaRT421][(https://github.com/AndikaRT421)](https://github.com/AndikaRT421/strukdat_2023)
-- Abdi: [Abdi](https://github.com/yaudahbanh/StrukturData)
+- Abdi: [@yaudahbanh](https://github.com/yaudahbanh/StrukturData)
 
 ### Class D
 - Aqil: [@qiqi_farrukh](https://www.instagram.com/qiqi_farrukh)
@@ -27,6 +27,7 @@
 
 ### Class E
 - Revy: [Strukdat](https://github.com/Revprm/Data-Structures-Practicum) - [Praktikum](https://github.com/Revprm/Data-Structures-Practicum)
+- Jesse: [@BaomaDev](https://github.com/BaomaDev)
 
 ### Class F
 - Ainun: [@ainunns]([https://github.com/ainunns](https://github.com/ainunns/Struktur-Data))
