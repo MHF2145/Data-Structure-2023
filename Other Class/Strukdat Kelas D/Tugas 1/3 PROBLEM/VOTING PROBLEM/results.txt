@@ -1,0 +1,23 @@
+Invalid vote: 11
+Invalid vote: 11
+
+Number of voters: 39
+Number of valid votes: 37
+Number of spoilt votes: 2
+
+Candidate Score
+
+Wildan Fauzy      3
+Fatiya Izzati     4
+Lathifah Sahda    3
+Yasmin Sujono     3
+Alvin Jauhari     2
+Pelangi Masita    2
+Rafli Raihan      3
+Fairuz Fuadi      8
+Iftala Zahri      8
+Arya Gading       1
+
+The winner(s)
+Fairuz Fuadi
+Iftala Zahri

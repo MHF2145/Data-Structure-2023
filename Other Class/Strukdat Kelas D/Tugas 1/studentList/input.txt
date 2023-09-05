@@ -1,0 +1,13 @@
+"Muhammad, Adam" 24 M
+"Iftala, Zahri" 33 F
+"Muhammad, Syarif" 29 F
+"Dzaki" 49 M
+"Wildan Fauzy, Maulana Hasyim" 16 F
+"Iftala Zahri Sukmana, Imran" 39 M
+"Kelly, Zahri Sukmana" 30 F
+"Abdullah, Syarif" 25 M
+"END"
+"Kelly, Trudy"
+"Layne, Dennis"
+"Layne, Cindy"
+"END"

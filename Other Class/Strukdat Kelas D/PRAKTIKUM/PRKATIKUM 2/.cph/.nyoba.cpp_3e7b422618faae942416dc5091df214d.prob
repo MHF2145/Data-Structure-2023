@@ -1,0 +1,1 @@
+{"name":"Local: nyoba","url":"c:\\ITS\\MATKUL\\SEM 2\\STRUKDAT\\PRAKTIKUM\\PRKATIKUM 2\\nyoba.cpp","tests":[{"id":1680620192000,"input":"3\n1\n2\n3","output":"1\n1 2\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ITS\\MATKUL\\SEM 2\\STRUKDAT\\PRAKTIKUM\\PRKATIKUM 2\\nyoba.cpp","group":"local","local":true}

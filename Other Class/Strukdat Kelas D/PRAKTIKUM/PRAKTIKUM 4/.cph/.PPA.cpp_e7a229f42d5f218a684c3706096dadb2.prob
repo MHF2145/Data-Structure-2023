@@ -1,0 +1,1 @@
+{"name":"Local: PPA","url":"c:\\ITS\\MATKUL\\SEM 2\\STRUKDAT\\PRAKTIKUM\\PRAKTIKUM 4\\PPA.cpp","tests":[{"id":1684497149495,"input":"5 5 1 3\n1 2 3 3 2\n3 1 2 3 1\n2 3 1 2 3\n1 2 3 1 2\n3 1 2 3 1","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ITS\\MATKUL\\SEM 2\\STRUKDAT\\PRAKTIKUM\\PRAKTIKUM 4\\PPA.cpp","group":"local","local":true}

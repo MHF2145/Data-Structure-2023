@@ -1,0 +1,30 @@
+Date: 12/4/2023
+Time: 11:19
+Phone Number: +62895367056545
+Message: Selamat Pagi Cassandra!Berikut ini adalah contoh penggunaan pywhatkit library
+--------------------
+Date: 13/4/2023
+Time: 0:41
+Phone Number: +62895367056545
+Message: Selamat Pagi Hilmi!Wahhh bisa dipake buat bot ngirim ke orang banyak sekaligus ya ges ya
+--------------------
+Date: 13/4/2023
+Time: 0:43
+Phone Number: +62895367056545
+Message: Selamat Pagi Hilmi!Wahhh bisa dipake buat bot ngirim ke orang banyak sekaligus ya ges ya
+--------------------
+Date: 13/4/2023
+Time: 0:45
+Phone Number: +6281883415981
+Message: Selamat Pagi Wendy!Wahhh bisa dipake buat bot ngirim ke orang banyak sekaligus ya ges ya
+--------------------
+Date: 13/4/2023
+Time: 0:47
+Phone Number: +62895367056545
+Message: Selamat Pagi Hilmi!Wahhh bisa dipake buat bot ngirim ke orang banyak sekaligus ya ges ya
+--------------------
+Date: 13/4/2023
+Time: 0:48
+Phone Number: +6281883415981
+Message: Selamat Pagi Wendy!Wahhh bisa dipake buat bot ngirim ke orang banyak sekaligus ya ges ya
+--------------------

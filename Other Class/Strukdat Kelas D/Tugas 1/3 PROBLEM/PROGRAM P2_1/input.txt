@@ -1,0 +1,13 @@
+"Alvin, Jauhari" 19 M
+"Fatiya, Izzati" 19 F
+"Lathifah, Sahda" 19 F
+"Iftala, Zahri" 19 M
+"Pelangi, Masita" 19 F
+"Irsyad, Habibi" 19 M
+"Yasmin, Sujono" 19 F
+"Rafli, Raihan" 19 M
+"END"
+"Iftala, Habibi"
+"Iftala, Zahri"
+"Alvin, Jauhari"
+"END"

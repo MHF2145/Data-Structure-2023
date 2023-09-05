@@ -1,0 +1,1 @@
+{"name":"Local: pawn","url":"c:\\ITS\\MATKUL\\SEM 2\\STRUKDAT\\PRAKTIKUM\\PRAKTIKUM 1\\pawn.c","tests":[{"id":1678502418576,"input":"2\n6 2 C\nKD KC AD 7C AC 9C\n6D 6C\n4 1 D\n9S KS AS 7S\n8D","output":"YA\nTIDAK"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ITS\\MATKUL\\SEM 2\\STRUKDAT\\PRAKTIKUM\\PRAKTIKUM 1\\pawn.c","group":"local","local":true}

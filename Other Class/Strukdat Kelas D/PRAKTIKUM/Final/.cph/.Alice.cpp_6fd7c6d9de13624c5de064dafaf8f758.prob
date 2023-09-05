@@ -1,0 +1,1 @@
+{"name":"Local: Alice","url":"c:\\ITS\\MATKUL\\SEM 2\\STRUKDAT\\PRAKTIKUM\\Final\\Alice.cpp","tests":[{"id":1685971023507,"input":"6 11\n45 1 10 12 11 7","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ITS\\MATKUL\\SEM 2\\STRUKDAT\\PRAKTIKUM\\Final\\Alice.cpp","group":"local","local":true}
