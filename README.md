@@ -22,7 +22,7 @@
 
 ### Class D
 - Iftala: [ifzahri](https://github.com/ifzahri)
-- Wildan:{}()
+- Wildan:
 
 
 ### Class E
@@ -31,7 +31,7 @@
 
 ### Class F
 - Ainun: [@ainunns](https://github.com/ainunns/Struktur-Data)
-
+- Aku :)
 ### Class G
 - Ricardo: [@Ricardo08S](https://github.com/Ricardo08S/Tugas_Strukdat_G)
 
