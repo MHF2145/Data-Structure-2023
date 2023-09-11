@@ -1,0 +1,3 @@
+Write a program to simulate the collection of bottle caps to spell apple. In every 100 caps, A
+and E occur 40 times each, and P and L occur 10 times each. Do 50 simulations and print the 
+average number of caps per simulation

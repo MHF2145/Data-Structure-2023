@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "stack": "cpp",
+        "chrono": "cpp",
+        "complex": "cpp",
+        "functional": "cpp",
+        "optional": "cpp",
+        "regex": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "xtr1common": "cpp",
+        "vector": "cpp",
+        "xutility": "cpp",
+        "utility": "cpp",
+        "iostream": "cpp"
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.cph/": true,
+        "**.bin": true
+    }
+}

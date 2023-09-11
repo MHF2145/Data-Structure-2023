@@ -1,0 +1,9 @@
+// Workspace settings
+{
+    "files.exclude": {
+        "**/*.bin": true,
+    },
+    "files.associations": {
+        "stdio.h": "c",
+    }
+}

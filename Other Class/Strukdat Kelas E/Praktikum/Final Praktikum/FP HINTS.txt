@@ -1,0 +1,8 @@
+FP HINTS
+
+R - bisa pake double stack/queue trs nanti dua2nya ditambah then dibagi 10 then dimodulus 10, inget dia minta inputannya string
+M - Tugas2 strukdat, banyak referensi diinternet contoh : https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/
+G - BST terus ditambahin aja commandnya terus ditambahin function buat print nodes yang cuman punya 1 child, reference : https://www.geeksforgeeks.org/print-the-nodes-having-exactly-one-child-in-a-binary-tree/
+H - Bantuan dari tala (scroll aja keatas)
+E - Bisa pake dijkstra yang furqan kasih, bisa juga ubah2 algonya kruskal, referensi : https://github.com/AlproITS/StrukturData/wiki/Modul-5-(Minimum-Spanning-Tree)
+S - ubah aja ini g4gnya jadi bukan data statis lagi : https://www.geeksforgeeks.org/count-of-pairs-of-array-elements-which-are-divisible-by-k-when-concatenated/

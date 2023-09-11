@@ -1,0 +1,84 @@
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+#include <sstream>
+#include <queue>
+#include <deque>
+#include <bitset>
+#include <iterator>
+#include <list>
+#include <stack>
+#include <map>
+#include <set>
+#include <unordered_set>
+#include <unordered_map>
+#include <functional>
+#include <numeric>
+#include <utility>
+#include <limits>
+#include <climits>
+#include <time.h>
+#include <math.h>
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <assert.h>
+
+
+using namespace std;
+#define Fast ios_base::sync_with_stdio(0);cin.tie(NULL);cout.tie(NULL);
+#define FOR(i, n) for(i = 0; i < n; i++)
+#define ll long long
+#define ull unsigned long long
+#define ui unsigned int
+#define S second
+#define F first
+#define mp make_pair
+#define pb push_back
+#define PI 3.1415926535897932384626433832795
+#define MOD 1e9+7
+#define modll 1000000009ll
+typedef pair<int, int> PII;
+typedef queue <int> QI;
+typedef stack <int> SI;
+typedef vector<int> VI;
+typedef vector<string> VS;
+typedef vector<PII> VII;
+typedef vector<VI> VVI;
+typedef vector<unordered_set<int>> VUSI;
+typedef map<int,int> MPII;
+typedef set<int> SETI;
+typedef multiset<int> MSETI;    
+typedef priority_queue<pair<int, int>> PQII;
+typedef vector<bool> VB;
+
+using namespace std;
+
+struct lingkaran {
+    double x, y, r;
+};
+
+double calculateDistance(double x1, double y1, double x2, double y2) {
+    double dx = x2 - x1;
+    double dy = y2 - y1;
+    return sqrt(dx * dx + dy * dy);
+}
+
+int main() {
+    int n;
+    while (true) {
+        cin >> n;
+        if (n == -1)
+            break;
+
+        vector<lingkaran> bulat(n);
+        for (int i = 0; i < n; i++)
+            cin >> bulat[i].x >> bulat[i].y >> bulat[i].r;
+
+        double length;
+        cout << "gatau mas pusing hehehe, saya cuman lihat video di yutub doang https://www.youtube.com/watch?v=-tAJkr5XVB4&ab_channel=VipraMinds-RahulTiwari" << endl;
+    }
+
+    return 0;
+}

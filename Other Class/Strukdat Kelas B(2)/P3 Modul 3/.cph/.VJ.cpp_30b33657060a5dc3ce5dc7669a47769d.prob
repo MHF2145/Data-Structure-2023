@@ -1,0 +1,1 @@
+{"name":"Local: VJ","url":"d:\\College\\Semester 2\\IF184202 - Struktur Data\\P3 Modul 3\\VJ.cpp","tests":[{"id":1683431907512,"input":"8\n4 Y\n15 N\n50 Y\n6 N\n7 Y\n23 N\n71 N\n5 N","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\College\\Semester 2\\IF184202 - Struktur Data\\P3 Modul 3\\VJ.cpp","group":"local","local":true}

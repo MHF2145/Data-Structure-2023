@@ -1,0 +1,3 @@
+A stack, S1, contains some numbers in arbitrary order. Using another stack, S2, for temporary 
+storage, show how to sort the numbers in S1 such that the smallest is at the top of S1 and 
+the largest is at the bottom.
