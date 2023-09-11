@@ -3,7 +3,7 @@
 
 ## Contributors
 ### IUP Class
-- Robin: [@Rubinskiy][(https://github.com/Rubinskiy)](https://github.com/Rubinskiy/IF184202-Data-Structures)
+- Robin: [@Rubinskiy](https://github.com/Rubinskiy/IF184202-Data-Structures)
 - Hassan: -
 
 ### Class A
@@ -17,22 +17,23 @@
 
 
 ### Class C 
-- Aan: [@AndikaRT421][(https://github.com/AndikaRT421)](https://github.com/AndikaRT421/strukdat_2023)
-- Abdi: [Abdi](https://github.com/yaudahbanh/StrukturData)
+- Aan: [@AndikaRT421](https://github.com/AndikaRT421/strukdat_2023)
+- Abdi: [@yaudahbanh](https://github.com/yaudahbanh/StrukturData)
 
 ### Class D
-- Aqil: [@qiqi_farrukh](https://www.instagram.com/qiqi_farrukh)
-- Keyo: [@keyo01_](https://www.instagram.com/keyo01_) (ada akun cosplay, cari aja)
+- Iftala: [ifzahri](https://github.com/ifzahri)
+- Wildan:
 
 
 ### Class E
 - Revy: [Strukdat](https://github.com/Revprm/Data-Structures-Practicum) - [Praktikum](https://github.com/Revprm/Data-Structures-Practicum)
+- Jesse: [@BaomaDev](https://github.com/BaomaDev)
 
 ### Class F
-- Ainun: [@ainunns]([https://github.com/ainunns](https://github.com/ainunns/Struktur-Data))
-
+- Ainun: [@ainunns](https://github.com/ainunns/Struktur-Data)
+- Aku :)
 ### Class G
-- Ricardo: [@Ricardo08S]([[https://github.com/ainunns](https://github.com/ainunns/Struktur-Data)](https://github.com/Ricardo08S/Tugas_Strukdat_G))
+- Ricardo: [@Ricardo08S](https://github.com/Ricardo08S/Tugas_Strukdat_G)
 
 
 Contact the seniors listed above through their Github or social media if you have any questions. Please remember to introduce yourself first.
